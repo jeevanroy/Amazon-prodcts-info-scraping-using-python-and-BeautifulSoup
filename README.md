@@ -32,9 +32,9 @@ Scraped items include:
 
 
 ### Output
-- [x] Save the part1 extracted data in a .csv file.
-- [x] Save the part2 extracted data in a .csv file.
-- [x] Save the entire data in a .csv file. [This is the final file and it's supposed to be submitted.]
+- [x] Save the part1 extracted data(426 products, i.e., 20 pages products) in a .csv file.
+- [x] Save the part2 extracted data(first 200 products of the above 426 products, as mentioned) in a .csv file.
+- [x] Save the entire data(first 200 products of the above 426 products, part1+part2) in a .csv file. [This is the final file and it's supposed to be submitted.]
 - [x] The entire data exported in a .csv format.
 
 ### NOTE
