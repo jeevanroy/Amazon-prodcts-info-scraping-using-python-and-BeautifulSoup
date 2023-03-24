@@ -21,5 +21,4 @@ A few pages have different layouts.
 
 Some elements I wanted to extract do not have any grip, unlike others with classes and ids' in their tags.
 
-Make sure 'user Agent' in 'headers' is correct.
-
+Ensure 'user Agent' in 'headers' is valid and suits the current use-case.
