@@ -10,6 +10,7 @@ It is an excellent exercise to work on web scraping using beautiful soup.
 - [x] Scraped 20 pages of product listing pages. One of the 20 pages/page example: 
 https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2 C283&ref=sr_pg_1
 
+- [x] (426 products, i.e., 20 pages products)
 - [x] Saved the extracted data into a .csv file.
 
 Scraped items include: 
@@ -22,6 +23,8 @@ Scraped items include:
 ### Part 2
 
 - [x] 200 products data has been extracted.
+- [x] (first 200 products of the above 426 products)
+
 
  Scraped items include: 
 - [x] Product Name,
@@ -33,7 +36,7 @@ Scraped items include:
 
 ### Output
 - [x] Save the part1 extracted data(426 products, i.e., 20 pages products) in a .csv file.
-- [x] Save the part2 extracted data(first 200 products of the above 426 products, as mentioned) in a .csv file.
+- [x] Save the part2 extracted data(first 200 products of the above 426 products) in a .csv file.
 - [x] Save the entire data(first 200 products of the above 426 products, part1+part2) in a .csv file. [This is the final file and it's supposed to be submitted.]
 - [x] The entire data exported in a .csv format.
 
