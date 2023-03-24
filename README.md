@@ -1,6 +1,47 @@
 # Amazon-products-info-scraping-using-python-and-BeautifulSoup
 It is an excellent exercise to work on web scraping using beautiful soup.
 
+## Task list
+
+### Part 1
+
+- [x] Scrape all products from the given url.
+
+- [x] Scraped 20 pages of product listing pages. Ex: 
+https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2 C283&ref=sr_pg_1
+
+- [x] Saved the extracted data into a .csv file.
+- [x] Scraped items include: 
+- [x] Product URL,
+- [x] Product Name,
+- [x] Product Price,
+- [x] Rating,
+- [x] Number of reviews.
+
+### Part 2
+
+- [x] 200 products data has been extracted.
+- [x] Scraped items include: 
+- [x] Product Name,
+- [x] Description,
+- [x] ASIN,
+- [x] Product Description,
+- [x] Manufacturer.
+
+
+### Output
+- [x] Save the part1 extracted data in a .csv file.
+- [x] Save the part2 extracted data in a .csv file.
+- [x] Save the entire data in a .csv file. [This is the final file and it's supposed to be submitted.]
+- [x] The entire data exported in a .csv format.
+
+### NOTE
+- [x] NOTE: PYTHON PROGRAMMING IS USED TO EXTRACT DATA FROM THE URLs.
+- [x] NOTE: BEAUTIFULSOUP IS USED FOR DATA CRAWLING. 
+
+
+
+
 
 ## Instructions:
 
@@ -21,4 +62,4 @@ A few pages have different layouts.
 
 Some elements I wanted to extract do not have any grip, unlike others with classes and ids' in their tags.
 
-Ensure 'user Agent' in 'headers' is valid and suits the current use-case.
+Ensure 'user Agent' in 'headers' is valid and suits the current use case.
