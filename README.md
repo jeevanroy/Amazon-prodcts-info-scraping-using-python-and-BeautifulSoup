@@ -1,25 +1,25 @@
-# Amazon-prodcts-info-scraping-using-python-and-BeautifulSoup
-This is an amazing exercise to work on web scraping using beautifulSoup.
+# Amazon-products-info-scraping-using-python-and-BeautifulSoup
+It is an excellent exercise to work on web scraping using beautiful soup.
 
 
 ## Instructions:
 
-I have written the code in Macbook. If you're running the files in systems having other than macOS, keep an eye on the directories. Make sure you pass valid directories.
+Macbook is used to develop the code. Running the files in systems other than macOS requires attention to the directories and paths provided.
 
-unzip the webpages file. This folder contains 40 files which includes 20 .html files and 20 folders with corresponding page items like images and other files.
+Unzip the webpages file. The resulting folder contains 40 files, including 20 .html files and 20 folders with corresponding page items like images and other files.
 
-Make sure you keep all the files, i.e., part1.py, part2.ipynb, webpages folder in a directory with name "00Analystt.ai".
+Make sure all the files, i.e., part1.py, part2.ipynb, webpages folder, is in a directory(folder) named "00Analystt.ai".
 
-run the part1.py file in 'atom' or any other IDE you prefer. Running this code will create the 'part1' '.csv' file with name "Part 1_20_pages_products.csv".
+Run the part1.py file in 'atom' or any other IDE you prefer. Running this code will create the 'part1' '.csv' file named "Part 1_20_pages_products.csv".
 
-run the part2.ipynb in 'jupyter notebook'. The reason why I used jupyternotebook was I wanted to use the url links in the part1.csv file. Running this code successfully creates 'part2' '.csv' file with name "Part_2_products_info.csv".
+Run the part2.ipynb in 'Jupiter notebook'. Use Jupiter notebook to utilise the URL links in the part1.csv file. Running this code creates a 'part2' '.csv' file named "Part_2_products_info.csv".
 
 
 ## Challenges I faced:
 
-A few pages have different layout. 
+A few pages have different layouts. 
 
-Some elements I wanted to extract doesn't have any grip unlike others have classes and ids' in their tags.
+Some elements I wanted to extract do not have any grip, unlike others with classes and ids' in their tags.
 
-Making sure my 'user Agent' in 'headers' is correct.
+Make sure 'user Agent' in 'headers' is correct.
 
