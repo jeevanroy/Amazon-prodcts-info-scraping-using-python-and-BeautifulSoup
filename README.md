@@ -7,7 +7,7 @@ It is an excellent exercise to work on web scraping using beautiful soup.
 
 - [x] Scrape all products from the given url.
 
-- [x] Scraped 20 pages of product listing pages. Ex: 
+- [x] Scraped 20 pages of product listing pages. One of the 20 pages/page example: 
 https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2 C283&ref=sr_pg_1
 
 - [x] Saved the extracted data into a .csv file.
