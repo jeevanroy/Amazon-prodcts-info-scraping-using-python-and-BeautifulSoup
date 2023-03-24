@@ -11,7 +11,8 @@ It is an excellent exercise to work on web scraping using beautiful soup.
 https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2 C283&ref=sr_pg_1
 
 - [x] Saved the extracted data into a .csv file.
-- [x] Scraped items include: 
+
+Scraped items include: 
 - [x] Product URL,
 - [x] Product Name,
 - [x] Product Price,
@@ -21,7 +22,8 @@ https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Cap
 ### Part 2
 
 - [x] 200 products data has been extracted.
-- [x] Scraped items include: 
+
+ Scraped items include: 
 - [x] Product Name,
 - [x] Description,
 - [x] ASIN,
